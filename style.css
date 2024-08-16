@@ -62,3 +62,28 @@ body{
 .description p{
     font-size: 14px;
 }
+.prepTime{
+    background-color: #fff5fa;
+    border-radius: 10px;
+    padding: 40px;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.prepTime p{
+    color: #7b284f;
+    font-weight: 800;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.specialHeading{
+    color: #444;
+    font-weight: 700;
+}
+.prepTime ul{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.prepTime li{
+    padding: 0 20px;
+}
